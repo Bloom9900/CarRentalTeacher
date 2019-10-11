@@ -1,0 +1,429 @@
+Make;Model;Type;Horsepower;MPG_City;MPG_Highway;Weight;Length
+Acura;MDX;SUV;265;17;23;4451;189
+Acura;RSX Type S 2dr;Sedan;200;24;31;2778;172
+Acura;TSX 4dr;Sedan;200;22;29;3230;183
+Acura;TL 4dr;Sedan;270;20;28;3575;186
+Acura;3.5 RL 4dr;Sedan;225;18;24;3880;197
+Acura;3.5 RL w/Navigation 4dr;Sedan;225;18;24;3893;197
+Acura;NSX coupe 2dr manual S;Sports;290;17;24;3153;174
+Audi;A4 1.8T 4dr;Sedan;170;22;31;3252;179
+Audi;A41.8T convertible 2dr;Sedan;170;23;30;3638;180
+Audi;A4 3.0 4dr;Sedan;220;20;28;3462;179
+Audi;A4 3.0 Quattro 4dr manual;Sedan;220;17;26;3583;179
+Audi;A4 3.0 Quattro 4dr auto;Sedan;220;18;25;3627;179
+Audi;A6 3.0 4dr;Sedan;220;20;27;3561;192
+Audi;A6 3.0 Quattro 4dr;Sedan;220;18;25;3880;192
+Audi;A4 3.0 convertible 2dr;Sedan;220;20;27;3814;180
+Audi;A4 3.0 Quattro convertible 2dr;Sedan;220;18;25;4013;180
+Audi;A6 2.7 Turbo Quattro 4dr;Sedan;250;18;25;3836;192
+Audi;A6 4.2 Quattro 4dr;Sedan;300;17;24;4024;193
+Audi;A8 L Quattro 4dr;Sedan;330;17;24;4399;204
+Audi;S4 Quattro 4dr;Sedan;340;14;20;3825;179
+Audi;RS 6 4dr;Sports;450;15;22;4024;191
+Audi;TT 1.8 convertible 2dr (coupe);Sports;180;20;28;3131;159
+Audi;TT 1.8 Quattro 2dr (convertible);Sports;225;20;28;2921;159
+Audi;TT 3.2 coupe 2dr (convertible);Sports;250;21;29;3351;159
+Audi;A6 3.0 Avant Quattro;Wagon;220;18;25;4035;192
+Audi;S4 Avant Quattro;Wagon;340;15;21;3936;179
+BMW;X3 3.0i;SUV;225;16;23;4023;180
+BMW;X5 4.4i;SUV;325;16;22;4824;184
+BMW;325i 4dr;Sedan;184;20;29;3219;176
+BMW;325Ci 2dr;Sedan;184;20;29;3197;177
+BMW;325Ci convertible 2dr;Sedan;184;19;27;3560;177
+BMW;325xi 4dr;Sedan;184;19;27;3461;176
+BMW;330i 4dr;Sedan;225;20;30;3285;176
+BMW;330Ci 2dr;Sedan;225;20;30;3285;176
+BMW;330xi 4dr;Sedan;225;20;29;3483;176
+BMW;525i 4dr;Sedan;184;19;28;3428;191
+BMW;330Ci convertible 2dr;Sedan;225;19;28;3616;177
+BMW;530i 4dr;Sedan;225;20;30;3472;191
+BMW;545iA 4dr;Sedan;325;18;26;3814;191
+BMW;745i 4dr;Sedan;325;18;26;4376;198
+BMW;745Li 4dr;Sedan;325;18;26;4464;204
+BMW;M3 coupe 2dr;Sports;333;16;24;3415;177
+BMW;M3 convertible 2dr;Sports;333;16;23;3781;177
+BMW;Z4 convertible 2.5i 2dr;Sports;184;20;28;2932;161
+BMW;Z4 convertible 3.0i 2dr;Sports;225;21;29;2998;161
+BMW;325xi Sport;Wagon;184;19;26;3594;176
+Buick;Rainier;SUV;275;15;21;4600;193
+Buick;Rendezvous CX;SUV;185;19;26;4024;187
+Buick;Century Custom 4dr;Sedan;175;20;30;3353;195
+Buick;LeSabre Custom 4dr;Sedan;205;20;29;3567;200
+Buick;Regal LS 4dr;Sedan;200;20;30;3461;196
+Buick;Regal GS 4dr;Sedan;240;18;28;3536;196
+Buick;LeSabre Limited 4dr;Sedan;205;20;29;3591;200
+Buick;Park Avenue 4dr;Sedan;205;20;29;3778;207
+Buick;Park Avenue Ultra 4dr;Sedan;240;18;28;3909;207
+Cadillac;Escalade;SUV;295;14;18;5367;199
+Cadillac;SRX V8;SUV;320;16;21;4302;195
+Cadillac;CTS VVT 4dr;Sedan;255;18;25;3694;190
+Cadillac;Deville 4dr;Sedan;275;18;26;3984;207
+Cadillac;Deville DTS 4dr;Sedan;300;18;26;4044;207
+Cadillac;Seville SLS 4dr;Sedan;275;18;26;3992;201
+Cadillac;XLR convertible 2dr;Sports;320;17;25;3647;178
+Cadillac;Escalade EXT;Truck;345;13;17;5879;221
+Chevrolet;Suburban 1500 LT;SUV;295;14;18;4947;219
+Chevrolet;Tahoe LT;SUV;295;14;18;5050;197
+Chevrolet;TrailBlazer LT;SUV;275;16;21;4425;192
+Chevrolet;Tracker;SUV;165;19;22;2866;163
+Chevrolet;Aveo 4dr;Sedan;103;28;34;2370;167
+Chevrolet;Aveo LS 4dr hatch;Sedan;103;28;34;2348;153
+Chevrolet;Cavalier 2dr;Sedan;140;26;37;2617;183
+Chevrolet;Cavalier 4dr;Sedan;140;26;37;2676;183
+Chevrolet;Cavalier LS 2dr;Sedan;140;26;37;2617;183
+Chevrolet;Impala 4dr;Sedan;180;21;32;3465;200
+Chevrolet;Malibu 4dr;Sedan;145;24;34;3174;188
+Chevrolet;Malibu LS 4dr;Sedan;200;22;30;3297;188
+Chevrolet;Monte Carlo LS 2dr;Sedan;180;21;32;3340;198
+Chevrolet;Impala LS 4dr;Sedan;200;20;30;3476;200
+Chevrolet;Impala SS 4dr;Sedan;240;18;28;3606;200
+Chevrolet;Malibu LT 4dr;Sedan;200;23;32;3315;188
+Chevrolet;Monte Carlo SS 2dr;Sedan;200;18;28;3434;198
+Chevrolet;Astro;Sedan;190;14;17;4605;190
+Chevrolet;Venture LS;Sedan;185;19;26;3699;187
+Chevrolet;Corvette 2dr;Sports;350;18;25;3246;180
+Chevrolet;Corvette convertible 2dr;Sports;350;18;25;3248;180
+Chevrolet;Avalanche 1500;Truck;295;14;18;5678;222
+Chevrolet;Colorado Z85;Truck;175;18;23;3623;192
+Chevrolet;Silverado 1500 Regular Cab;Truck;200;15;21;4142;206
+Chevrolet;Silverado SS;Truck;300;13;17;4804;238
+Chevrolet;SSR;Truck;300;16;19;4760;191
+Chevrolet;Malibu Maxx LS;Wagon;200;22;30;3458;188
+Chrysler;PT Cruiser 4dr;Sedan;150;22;29;3101;169
+Chrysler;PT Cruiser Limited 4dr;Sedan;150;22;29;3105;169
+Chrysler;Sebring 4dr;Sedan;150;22;30;3173;191
+Chrysler;Sebring Touring 4dr;Sedan;200;21;28;3222;191
+Chrysler;300M 4dr;Sedan;250;18;27;3581;198
+Chrysler;Concorde LX 4dr;Sedan;200;21;29;3479;208
+Chrysler;Concorde LXi 4dr;Sedan;232;19;27;3548;208
+Chrysler;PT Cruiser GT 4dr;Sedan;220;21;27;3217;169
+Chrysler;Sebring convertible 2dr;Sedan;150;22;30;3357;194
+Chrysler;300M Special Edition 4dr;Sedan;255;18;27;3650;198
+Chrysler;Sebring Limited convertible 2dr;Sedan;200;21;28;3448;194
+Chrysler;Town and Country LX;Sedan;180;19;26;4068;201
+Chrysler;Town and Country Limited;Sedan;215;18;25;4331;201
+Chrysler;Crossfire 2dr;Sports;215;17;25;3060;160
+Chrysler;Pacifica;Wagon;250;17;23;4675;199
+Dodge;Durango SLT;SUV;230;15;21;4987;201
+Dodge;Neon SE 4dr;Sedan;132;29;36;2581;174
+Dodge;Neon SXT 4dr;Sedan;132;29;36;2626;174
+Dodge;Intrepid SE 4dr;Sedan;200;21;29;3469;204
+Dodge;Stratus SXT 4dr;Sedan;150;21;28;3182;191
+Dodge;Stratus SE 4dr;Sedan;150;21;28;3175;191
+Dodge;Intrepid ES 4dr;Sedan;232;18;27;3487;204
+Dodge;Caravan SE;Sedan;150;20;26;3862;189
+Dodge;Grand Caravan SXT;Sedan;215;18;25;4440;201
+Dodge;Viper SRT-10 convertible 2dr;Sports;500;12;20;3410;176
+Dodge;Dakota Regular Cab;Truck;210;16;22;3714;193
+Dodge;Dakota Club Cab;Truck;210;16;22;3829;219
+Dodge;Ram 1500 Regular Cab ST;Truck;215;16;21;4542;208
+Ford;Excursion 6.8 XLT;SUV;310;10;13;7190;227
+Ford;Expedition 4.6 XLT;SUV;232;15;19;5000;206
+Ford;Explorer XLT V6;SUV;210;15;20;4463;190
+Ford;Escape XLS;SUV;201;18;23;3346;173
+Ford;Focus ZX3 2dr hatch;Sedan;130;26;33;2612;168
+Ford;Focus LX 4dr;Sedan;110;27;36;2606;168
+Ford;Focus SE 4dr;Sedan;130;26;33;2606;168
+Ford;Focus ZX5 5dr;Sedan;130;26;33;2691;168
+Ford;Focus SVT 2dr;Sedan;170;21;28;2750;168
+Ford;Taurus LX 4dr;Sedan;155;20;27;3306;198
+Ford;Taurus SES Duratec 4dr;Sedan;201;19;26;3313;198
+Ford;Crown Victoria 4dr;Sedan;224;17;25;4057;212
+Ford;Crown Victoria LX 4dr;Sedan;224;17;25;4057;212
+Ford;Crown Victoria LX Sport 4dr;Sedan;239;17;25;4057;212
+Ford;Freestar SE;Sedan;193;17;23;4275;201
+Ford;Mustang 2dr (convertible);Sports;193;20;29;3290;183
+Ford;Mustang GT Premium convertible 2dr;Sports;260;17;25;3347;183
+Ford;Thunderbird Deluxe convert w/hardtop 2d;Sports;280;17;24;3780;186
+Ford;F-150 Regular Cab XL;Truck;231;15;19;4788;211
+Ford;F-150 Supercab Lariat;Truck;300;14;18;5464;218
+Ford;Ranger 2.3 XL Regular Cab;Truck;143;24;29;3028;188
+Ford;Focus ZTW;Wagon;130;26;33;2702;178
+Ford;Taurus SE;Wagon;155;19;26;3497;198
+GMC;Envoy XUV SLE;SUV;275;15;19;4945;208
+GMC;Yukon 1500 SLE;SUV;285;16;19;5042;199
+GMC;Yukon XL 2500 SLT;SUV;325;13;17;6133;219
+GMC;Safari SLE;Sedan;190;16;20;4309;190
+GMC;Canyon Z85 SL Regular Cab;Truck;175;18;25;3351;192
+GMC;Sierra Extended Cab 1500;Truck;285;17;20;4548;230
+GMC;Sierra HD 2500;Truck;300;13;18;5440;222
+GMC;Sonoma Crew Cab;Truck;190;15;19;4083;208
+Honda;Civic Hybrid 4dr manual (gas/electric);Hybrid;93;46;51;2732;175
+Honda;Insight 2dr (gas/electric);Hybrid;73;60;66;1850;155
+Honda;Pilot LX;SUV;240;17;22;4387;188
+Honda;CR-V LX;SUV;160;21;25;3258;179
+Honda;Element LX;SUV;160;21;24;3468;167
+Honda;Civic DX 2dr;Sedan;115;32;38;2432;175
+Honda;Civic HX 2dr;Sedan;117;36;44;2500;175
+Honda;Civic LX 4dr;Sedan;115;32;38;2513;175
+Honda;Accord LX 2dr;Sedan;160;26;34;2994;188
+Honda;Accord EX 2dr;Sedan;160;26;34;3047;188
+Honda;Civic EX 4dr;Sedan;127;32;37;2601;175
+Honda;Civic Si 2dr hatch;Sedan;160;26;30;2782;166
+Honda;Accord LX V6 4dr;Sedan;240;21;30;3349;190
+Honda;Accord EX V6 2dr;Sedan;240;21;30;3294;188
+Honda;Odyssey LX;Sedan;240;18;25;4310;201
+Honda;Odyssey EX;Sedan;240;18;25;4365;201
+Honda;S2000 convertible 2dr;Sports;240;20;25;2835;162
+Hummer;H2;SUV;316;10;12;6400;190
+Hyundai;Santa Fe GLS;SUV;173;20;26;3549;177
+Hyundai;Accent 2dr hatch;Sedan;103;29;33;2255;167
+Hyundai;Accent GL 4dr;Sedan;103;29;33;2290;167
+Hyundai;Accent GT 2dr hatch;Sedan;103;29;33;2339;167
+Hyundai;Elantra GLS 4dr;Sedan;138;26;34;2635;178
+Hyundai;Elantra GT 4dr;Sedan;138;26;34;2635;178
+Hyundai;Elantra GT 4dr hatch;Sedan;138;26;34;2698;178
+Hyundai;Sonata GLS 4dr;Sedan;170;19;27;3217;187
+Hyundai;Sonata LX 4dr;Sedan;170;19;27;3217;187
+Hyundai;XG350 4dr;Sedan;194;17;26;3651;192
+Hyundai;XG350 L 4dr;Sedan;194;17;26;3651;192
+Hyundai;Tiburon GT V6 2dr;Sports;172;19;26;3023;173
+Infiniti;G35 4dr;Sedan;260;18;26;3336;187
+Infiniti;G35 Sport Coupe 2dr;Sedan;280;18;26;3416;182
+Infiniti;G35 4dr;Sedan;260;18;26;3677;187
+Infiniti;I35 4dr;Sedan;255;19;26;3306;194
+Infiniti;M45 4dr;Sedan;340;17;23;3851;197
+Infiniti;Q45 Luxury 4dr;Sedan;340;17;23;3977;200
+Infiniti;FX35;Wagon;280;16;22;4056;189
+Infiniti;FX45;Wagon;315;15;19;4309;189
+Isuzu;Ascender S;SUV;275;15;20;4967;208
+Isuzu;Rodeo S;SUV;193;17;21;3836;178
+Jaguar;X-Type 2.5 4dr;Sedan;192;18;26;3428;184
+Jaguar;X-Type 3.0 4dr;Sedan;227;18;25;3516;184
+Jaguar;S-Type 3.0 4dr;Sedan;235;18;26;3777;192
+Jaguar;S-Type 4.2 4dr;Sedan;294;18;28;3874;192
+Jaguar;S-Type R 4dr;Sedan;390;17;24;4046;192
+Jaguar;Vanden Plas 4dr;Sedan;294;18;28;3803;200
+Jaguar;XJ8 4dr;Sedan;294;18;28;3803;200
+Jaguar;XJR 4dr;Sedan;390;17;24;3948;200
+Jaguar;XK8 coupe 2dr;Sports;294;18;26;3779;187
+Jaguar;XK8 convertible 2dr;Sports;294;18;26;3980;187
+Jaguar;XKR coupe 2dr;Sports;390;16;23;3865;187
+Jaguar;XKR convertible 2dr;Sports;390;16;23;4042;187
+Jeep;Grand Cherokee Laredo;SUV;195;16;21;3790;181
+Jeep;Liberty Sport;SUV;150;20;24;3826;174
+Jeep;Wrangler Sahara convertible 2dr;SUV;190;16;19;3575;150
+Kia;Sorento LX;SUV;192;16;19;4112;180
+Kia;Optima LX 4dr;Sedan;138;23;30;3281;186
+Kia;Rio 4dr manual;Sedan;104;26;33;2403;167
+Kia;Rio 4dr auto;Sedan;104;25;32;2458;167
+Kia;Spectra 4dr;Sedan;124;24;32;2661;178
+Kia;Spectra GS 4dr hatch;Sedan;124;24;32;2686;178
+Kia;Spectra GSX 4dr hatch;Sedan;124;24;32;2697;178
+Kia;Optima LX V6 4dr;Sedan;170;20;27;3279;186
+Kia;Amanti 4dr;Sedan;195;17;25;4021;196
+Kia;Sedona LX;Sedan;195;16;22;4802;194
+Kia;Rio Cinco;Wagon;104;26;33;2447;167
+Land Rover;Range Rover HSE;SUV;282;12;16;5379;195
+Land Rover;Discovery SE;SUV;217;12;16;4576;185
+Land Rover;Freelander SE;SUV;174;18;21;3577;175
+Lexus;GX 470;SUV;235;15;19;4740;188
+Lexus;LX 470;SUV;235;13;17;5590;193
+Lexus;RX 330;SUV;230;18;24;4065;186
+Lexus;ES 330 4dr;Sedan;225;20;29;3460;191
+Lexus;IS 300 4dr manual;Sedan;215;18;25;3255;177
+Lexus;IS 300 4dr auto;Sedan;215;18;24;3285;177
+Lexus;GS 300 4dr;Sedan;220;18;25;3649;189
+Lexus;GS 430 4dr;Sedan;300;18;23;3715;189
+Lexus;LS 430 4dr;Sedan;290;18;25;3990;197
+Lexus;SC 430 convertible 2dr;Sports;300;18;23;3840;178
+Lexus;IS 300 SportCross;Wagon;215;18;24;3410;177
+Lincoln;Navigator Luxury;SUV;300;13;18;5969;206
+Lincoln;Aviator Ultimate;SUV;302;13;18;4834;193
+Lincoln;LS V6 Luxury 4dr;Sedan;232;20;26;3681;194
+Lincoln;LS V6 Premium 4dr;Sedan;232;20;26;3681;194
+Lincoln;LS V8 Sport 4dr;Sedan;280;17;24;3768;194
+Lincoln;LS V8 Ultimate 4dr;Sedan;280;17;24;3768;194
+Lincoln;Town Car Signature 4dr;Sedan;239;17;25;4369;215
+Lincoln;Town Car Ultimate 4dr;Sedan;239;17;25;4369;215
+Lincoln;Town Car Ultimate L 4dr;Sedan;239;17;25;4474;221
+MINI;Cooper;Sedan;115;28;37;2524;143
+MINI;Cooper S;Sedan;163;25;34;2678;144
+Mazda;Tribute DX 2.0;SUV;130;22;25;3091;173
+Mazda;Mazda3 i 4dr;Sedan;148;26;34;2696;178
+Mazda;Mazda3 s 4dr;Sedan;160;25;31;2762;179
+Mazda;Mazda6 i 4dr;Sedan;160;24;32;3042;187
+Mazda;MPV ES;Sedan;200;18;25;3812;188
+Mazda;MX-5 Miata convertible 2dr;Sports;142;23;28;2387;156
+Mazda;MX-5 Miata LS convertible 2dr;Sports;142;23;28;2387;156
+Mazda;RX-8 4dr automatic;Sports;197;18;25;3053;174
+Mazda;RX-8 4dr manual;Sports;238;18;24;3029;174
+Mazda;B2300 SX Regular Cab;Truck;143;24;29;2960;188
+Mazda;B4000 SE Cab Plus;Truck;207;15;19;3571;203
+Mercedes-Benz;G500;SUV;292;13;14;5423;186
+Mercedes-Benz;ML500;SUV;288;14;17;4874;183
+Mercedes-Benz;C230 Sport 2dr;Sedan;189;22;30;3250;178
+Mercedes-Benz;C320 Sport 2dr;Sedan;215;19;26;3430;178
+Mercedes-Benz;C240 4dr;Sedan;168;20;25;3360;178
+Mercedes-Benz;C240 4dr;Sedan;168;19;25;3360;178
+Mercedes-Benz;C320 Sport 4dr;Sedan;215;19;26;3430;178
+Mercedes-Benz;C320 4dr;Sedan;215;20;26;3450;178
+Mercedes-Benz;C320 4dr;Sedan;215;19;27;3450;178
+Mercedes-Benz;C32 AMG 4dr;Sedan;349;16;21;3540;178
+Mercedes-Benz;CL500 2dr;Sedan;302;16;24;4085;196
+Mercedes-Benz;CL600 2dr;Sedan;493;13;19;4473;196
+Mercedes-Benz;CLK320 coupe 2dr (convertible);Sedan;215;20;26;3770;183
+Mercedes-Benz;CLK500 coupe 2dr (convertible);Sedan;302;17;22;3585;183
+Mercedes-Benz;E320 4dr;Sedan;221;19;27;3635;190
+Mercedes-Benz;E500 4dr;Sedan;302;16;20;3815;190
+Mercedes-Benz;S430 4dr;Sedan;275;18;26;4160;203
+Mercedes-Benz;S500 4dr;Sedan;302;16;24;4390;203
+Mercedes-Benz;SL500 convertible 2dr;Sports;302;16;23;4065;179
+Mercedes-Benz;SL55 AMG 2dr;Sports;493;14;21;4235;179
+Mercedes-Benz;SL600 convertible 2dr;Sports;493;13;19;4429;179
+Mercedes-Benz;SLK230 convertible 2dr;Sports;192;21;29;3055;158
+Mercedes-Benz;SLK32 AMG 2dr;Sports;349;17;22;3220;158
+Mercedes-Benz;C240;Wagon;168;19;25;3470;179
+Mercedes-Benz;E320;Wagon;221;19;27;3966;190
+Mercedes-Benz;E500;Wagon;302;16;24;4230;190
+Mercury;Mountaineer;SUV;210;16;21;4374;190
+Mercury;Sable GS 4dr;Sedan;155;20;27;3308;200
+Mercury;Grand Marquis GS 4dr;Sedan;224;17;25;4052;212
+Mercury;Grand Marquis LS Premium 4dr;Sedan;224;17;25;4052;212
+Mercury;Sable LS Premium 4dr;Sedan;201;19;26;3315;200
+Mercury;Grand Marquis LS Ultimate 4dr;Sedan;224;17;25;4052;212
+Mercury;Marauder 4dr;Sedan;302;17;23;4195;212
+Mercury;Monterey Luxury;Sedan;201;16;23;4340;202
+Mercury;Sable GS;Wagon;155;19;26;3488;198
+Mitsubishi;Endeavor XLS;SUV;215;17;21;4134;190
+Mitsubishi;Montero XLS;SUV;215;15;19;4718;190
+Mitsubishi;Outlander LS;SUV;160;21;27;3240;179
+Mitsubishi;Lancer ES 4dr;Sedan;120;25;31;2656;181
+Mitsubishi;Lancer LS 4dr;Sedan;120;25;31;2795;181
+Mitsubishi;Galant ES 2.4L 4dr;Sedan;160;23;30;3351;191
+Mitsubishi;Lancer OZ Rally 4dr auto;Sedan;120;25;31;2744;181
+Mitsubishi;Diamante LS 4dr;Sedan;205;18;25;3549;194
+Mitsubishi;Galant GTS 4dr;Sedan;230;18;26;3649;191
+Mitsubishi;Eclipse GTS 2dr;Sports;210;21;28;3241;177
+Mitsubishi;Eclipse Spyder GT convertible 2dr;Sports;210;21;28;3296;177
+Mitsubishi;Lancer Evolution 4dr;Sports;271;18;26;3263;179
+Mitsubishi;Lancer Sportback LS;Wagon;160;25;31;3020;181
+Nissan;Pathfinder Armada SE;SUV;305;13;19;5013;207
+Nissan;Pathfinder SE;SUV;240;16;21;3871;183
+Nissan;Xterra XE V6;SUV;180;17;20;3760;178
+Nissan;Sentra 1.8 4dr;Sedan;126;28;35;2513;178
+Nissan;Sentra 1.8 S 4dr;Sedan;126;28;35;2581;178
+Nissan;Altima S 4dr;Sedan;175;21;26;3039;192
+Nissan;Sentra SE-R 4dr;Sedan;165;23;28;2761;178
+Nissan;Altima SE 4dr;Sedan;245;21;26;3197;192
+Nissan;Maxima SE 4dr;Sedan;265;20;28;3473;194
+Nissan;Maxima SL 4dr;Sedan;265;20;28;3476;194
+Nissan;Quest S;Sedan;240;19;26;4012;204
+Nissan;Quest SE;Sedan;240;18;25;4175;204
+Nissan;350Z coupe 2dr;Sports;287;20;26;3188;169
+Nissan;350Z Enthusiast convertible 2dr;Sports;287;20;26;3428;169
+Nissan;Frontier King Cab XE V6;Truck;180;17;20;3932;191
+Nissan;Titan King Cab XE;Truck;305;14;18;5287;224
+Nissan;Murano SL;Wagon;245;20;25;3801;188
+Oldsmobile;Alero GX 2dr;Sedan;140;24;32;2946;187
+Oldsmobile;Alero GLS 2dr;Sedan;170;20;29;3085;187
+Oldsmobile;Silhouette GL;Sedan;185;19;26;3948;201
+Pontiac;Aztekt;SUV;185;19;26;3779;182
+Pontiac;Sunfire 1SA 2dr;Sedan;140;24;33;2771;182
+Pontiac;Grand Am GT 2dr;Sedan;175;20;29;3118;186
+Pontiac;Grand Prix GT1 4dr;Sedan;200;20;30;3477;198
+Pontiac;Sunfire 1SC 2dr;Sedan;140;24;33;2771;182
+Pontiac;Grand Prix GT2 4dr;Sedan;200;20;30;3484;198
+Pontiac;Bonneville GXP 4dr;Sedan;275;17;20;3790;203
+Pontiac;Montana;Sedan;185;19;26;3803;187
+Pontiac;Montana EWB;Sedan;185;18;24;4431;201
+Pontiac;GTO 2dr;Sports;340;16;20;3725;190
+Pontiac;Vibe;Wagon;130;29;36;2701;172
+Porsche;Cayenne S;SUV;340;14;18;4950;188
+Porsche;911 Carrera convertible 2dr (coupe);Sports;315;18;26;3135;175
+Porsche;911 Carrera 4S coupe 2dr (convert);Sports;315;17;24;3240;175
+Porsche;911 Targa coupe 2dr;Sports;315;18;26;3119;175
+Porsche;911 GT2 2dr;Sports;477;17;24;3131;175
+Porsche;Boxster convertible 2dr;Sports;228;20;29;2811;170
+Porsche;Boxster S convertible 2dr;Sports;258;18;26;2911;170
+Saab;9-3 Arc Sport 4dr;Sedan;210;20;28;3175;183
+Saab;9-3 Aero 4dr;Sedan;210;20;28;3175;183
+Saab;9-5 Arc 4dr;Sedan;220;21;29;3470;190
+Saab;9-5 Aero 4dr;Sedan;250;21;29;3470;190
+Saab;9-3 Arc convertible 2dr;Sedan;210;21;29;3480;182
+Saab;9-3 Aero convertible 2dr;Sedan;210;21;30;3700;182
+Saab;9-5 Aero;Wagon;250;19;29;3620;190
+Saturn;VUE;SUV;143;21;26;3381;181
+Saturn;Ion1 4dr;Sedan;140;26;35;2692;185
+Saturn;lon2 4dr;Sedan;140;26;35;2692;185
+Saturn;lon3 4dr;Sedan;140;26;35;2692;185
+Saturn;lon2 quad coupe 2dr;Sedan;140;26;35;2751;185
+Saturn;lon3 quad coupe 2dr;Sedan;140;26;35;2751;185
+Saturn;L300-2 4dr;Sedan;182;20;28;3197;190
+Saturn;L300 2;Wagon;140;24;34;3109;190
+Scion;xA 4dr hatch;Sedan;108;32;38;2340;154
+Scion;xB;Wagon;108;31;35;2425;155
+Subaru;Impreza 2.5 RS 4dr;Sedan;165;22;28;2965;174
+Subaru;Legacy L 4dr;Sedan;165;21;28;3285;184
+Subaru;Legacy GT 4dr;Sedan;165;21;28;3395;184
+Subaru;Outback Limited Sedan 4dr;Sedan;165;20;27;3495;184
+Subaru;Outback H6 4dr;Sedan;212;19;26;3610;184
+Subaru;Outback H-6 VDC 4dr;Sedan;212;19;26;3630;184
+Subaru;Impreza WRX 4dr;Sports;227;20;27;3085;174
+Subaru;Impreza WRX STi 4dr;Sports;300;18;24;3263;174
+Subaru;Baja;Truck;165;21;28;3485;193
+Subaru;Forester X;Wagon;165;21;28;3090;175
+Subaru;Outback;Wagon;165;21;28;3430;187
+Suzuki;XL-7 EX;SUV;185;18;22;3682;187
+Suzuki;Vitara LX;SUV;165;19;22;3020;163
+Suzuki;Aeno S 4dr;Sedan;155;25;31;2676;171
+Suzuki;Aerio LX 4dr;Sedan;155;25;31;2676;171
+Suzuki;Forenza S 4dr;Sedan;119;24;31;2701;177
+Suzuki;Forenza EX 4dr;Sedan;119;22;30;2756;177
+Suzuki;Verona LX 4dr;Sedan;155;20;27;3380;188
+Suzuki;Aerio SX;Wagon;155;24;29;2932;167
+Toyota;Prius 4dr (gas/electric);Hybrid;110;59;51;2890;175
+Toyota;Sequoia SR5;SUV;240;14;17;5270;204
+Toyota;4Runner SR5 V6;SUV;245;18;21;4035;189
+Toyota;Highlander V6;SUV;230;18;24;3935;185
+Toyota;Land Cruiser;SUV;325;13;17;5390;193
+Toyota;RAV4;SUV;161;22;27;3119;167
+Toyota;Corolla CE 4dr;Sedan;130;32;40;2502;178
+Toyota;Corolla S 4dr;Sedan;130;32;40;2524;178
+Toyota;Corolla LE 4dr;Sedan;130;32;40;2524;178
+Toyota;Echo 2dr manual;Sedan;108;35;43;2035;163
+Toyota;Echo 2dr auto;Sedan;108;33;39;2085;163
+Toyota;Echo 4dr;Sedan;108;35;43;2055;163
+Toyota;Camry LE 4dr;Sedan;157;24;33;3086;189
+Toyota;Camry LE V6 4dr;Sedan;210;21;29;3296;189
+Toyota;Camry Solara SE 2dr;Sedan;157;24;33;3175;193
+Toyota;Camry Solara SE V6 2dr;Sedan;225;20;29;3417;193
+Toyota;Avalon XL 4dr;Sedan;210;21;29;3417;192
+Toyota;Camry XLE V6 4dr;Sedan;210;21;29;3362;189
+Toyota;Camry Solara SLE V6 2dr;Sedan;225;20;29;3439;193
+Toyota;Avalon XLS 4dr;Sedan;210;21;29;3439;192
+Toyota;Sienna CE;Sedan;230;19;27;4120;200
+Toyota;Sienna XLE Limited;Sedan;230;19;27;4165;200
+Toyota;Celica GT-S 2dr;Sports;180;24;33;2500;171
+Toyota;MR2 Spyder convertible 2dr;Sports;138;26;32;2195;153
+Toyota;Tacoma;Truck;142;22;27;2750;191
+Toyota;Tundra Regular Cab V6;Truck;190;16;18;3925;218
+Toyota;Tundra Access Cab V6 SR5;Truck;190;14;17;4435;218
+Toyota;Matrix XR;Wagon;130;29;36;2679;171
+Volkswagen;Touareg V6;SUV;220;15;20;5086;187
+Volkswagen;Golf GLS 4dr;Sedan;115;24;31;2897;165
+Volkswagen;GTI 1.8T 2dr hatch;Sedan;180;24;31;2934;168
+Volkswagen;Jetta GLS TDI 4dr;Sedan;100;38;46;3003;172
+Volkswagen;New Beetle GLS 1.8T 2dr;Sedan;150;24;31;2820;161
+Volkswagen;Jetta GLI VR6 4dr;Sedan;200;21;30;3179;172
+Volkswagen;New Beetle GLS convertible 2dr;Sedan;115;24;30;3082;161
+Volkswagen;Passat GLS 4dr;Sedan;170;22;31;3241;185
+Volkswagen;Passat GLX V6 4MOTION 4dr;Sedan;190;19;26;3721;185
+Volkswagen;Passat W8 4MOTION 4dr;Sedan;270;18;25;3953;185
+Volkswagen;Phaeton 4dr;Sedan;335;16;22;5194;204
+Volkswagen;Phaeton W12 4dr;Sedan;420;12;19;5399;204
+Volkswagen;Jetta GL;Wagon;115;24;30;3034;174
+Volkswagen;Passat GLS 1.8T;Wagon;170;22;31;3338;184
+Volkswagen;Passat W8;Wagon;270;18;25;4067;184
+Volvo;XC90 T6;SUV;268;15;20;4638;189
+Volvo;S40 4dr;Sedan;170;22;29;2767;178
+Volvo;S60 2.5 4dr;Sedan;208;20;27;3903;180
+Volvo;S60 T5 4dr;Sedan;247;20;28;3766;180
+Volvo;S60 R 4dr;Sedan;300;18;25;3571;181
+Volvo;S80 2.9 4dr;Sedan;208;20;28;3576;190
+Volvo;S80 2.5T 4dr;Sedan;194;20;27;3691;190
+Volvo;C70 LPT convertible 2dr;Sedan;197;21;28;3450;186
+Volvo;C70 HPT convertible 2dr;Sedan;242;20;26;3450;186
+Volvo;S80 T6 4dr;Sedan;268;19;26;3653;190
+Volvo;V40;Wagon;170;22;29;2822;180
+Volvo;XC70;Wagon;208;20;27;3823;186
