@@ -14,7 +14,7 @@ public class RentalAdminTest {
 	
 	public RentalAdminTest() {
 	}
-	
+	//a
 	@Before
 	public void setUp() {
 		rentalAdmin = new RentalAdmin("Kurt");
